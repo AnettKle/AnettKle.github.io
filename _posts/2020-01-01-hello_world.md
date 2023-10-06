@@ -1,10 +1,42 @@
 ---
 layout: post
-title: Hello, World!
-author: John Doe
-tags: article, nextjs, js
+title: 원격교육을 위한 E-Learning 플랫폼의 분석
+author: Anett Klettenberg
+tags: homework 3
 ---
+ 
+원격 교육을 위한 전자 학습 플랫폼은 기술의 발전과 교육 환경의 변화에 주도적으로 발전해 왔다. 유연한 환경은 학습이 시공간의 제약을 받지 않도록 하여 학생과 교사가 자신의 스케줄에 맞게 장소와 시간을 조정할 수 있도록 한다. 포럼이나 다른 의사소통 채널의 도입은 시간의 제한 없이 선생님 또는 반 친구들과의 의사소통을 가능하게 한다. 구글 클래스룸(Google Classroom), 무들(Moodle) 및 코세라(Coursera)에 대한 주요 기능과 고려 사항을 제공하며 사용자 인증, 콘텐츠 관리, 평가 및 성적 평가, 모바일 접근성, 통합, 비용, 무료 평가, 대상, 고객 지원 및 사용자 인터페이스에 대한 비교 이후 사용자 특성에 맞는 추천한다
 
-# Hello, World!
+## 서론
+원격 교육 분야는 학습을 편리하게 하는 데 중요한 역할을 하는 전자 학습 플랫폼을 통해 혁명적인 변화를 겪었다. 이 서론은 구글 클래스룸, 무들 및 코세라와 같은 세 가지 주요 전자 학습 플랫폼의 기능과 특징을 종합적으로 알아본다.
 
-## This is my first post
+### 본론 1 
+세 플랫폼 모두 교육 자원에 안전한 액세스를 보장하기 위해 사용자 인증을 강조한다.
+구글 클래스룸은 부모 계정이 콘텐츠에 액세스하는 것을 제한하며, 무들 및 코세라는 포괄적인 콘텐츠 관리 기능을 제공한다. 세가지 플랫폼은 학습자를 효과적으로 평가할 수 있도록 평가 및 성적 평가 기능을 제공한다. 세 플랫폼 모두 편리한 액세스를 위한 모바일 애플리케이션을 제공한다. 무들 및 코세라는 QR 코드 로그인과 같은 추가 기능을 제공한다. 구글 클래스룸의 기능에는 구글(google) 시트로 성적 내보내기, 보호자 이메일, 캘린더 통합, 향후 수업을 위한 테스트 및 과제 등의 기능이 포함된다.
+### 본론 2
+무들의 기능은 비디오 회의용 빅블루버튼(BigBlueButton), 화학 과제용 케미스트리에디터(Chemistry Editor), 글쓰기 과제용 워드카운트(WordCount), 다국어 지원, 출석 추적등이 있다. 코세라의 기능은 다양한 과목 카탈로그, 어디서나 학습 가능, 입문 수준의 강의, 인증서, 전문 과정 또는 학위를 획득할 수 있는 옵션이 있다. 코세라는 유료로 인증서를 제공하지만 학위 프로그램에는 연관 비용이 있으며 초보자 수준의 강의가 대부분이다. 따라서 조금 더 높은 수준의 강의가 부족하다. 구글 클래스룸은 다양한 교육 애플리케이션과의 쉬운 연동이 장점이다. 그러나 마이크로소프트 팀스(Microsoft Teams) 및 구글 미트(Google Meet)과의 연동성이 부족한 점을 고려해야 한다. 무들은 지불형 애드온으로 인증된 연동을 제공하여 학습 환경을 개선한다. 무들의 일부 인증된 도구중 일부는 빅블루버튼(BigBlueButton), 심체크(SimCheck), 제이퓨전(JFusion), 줌들(Joomdle) 및 프로무들(Promoodle)이 포함된다. 코세라는 줌(Zoom) 및 구글 미트(Google Meet)와 같은 인기있는 플랫폼과 원활하게 통합된다.
+
+## 결론
+최적의 전자 학습 플랫폼 선택은 학생, 교사 및 회사 직원의 특정한 요구에 따라 다르다.
+
+학생들을 입장에서는 구글 클래스룸은 사용이 간편하고 무료 액세스로 학교에서의 교육에 적합한 선택이다. 일부 고급 기능이 부족할 수 있지만 효과적인 솔루션이다.
+
+교사를 입장에서는 무들은 포괄적인 콘텐츠 관리, 평가 도구 및 통합 옵션을 제공하여 교육자에게 많은 선택지를 제공한다. 약간 낡은 인터페이스에도 불구하고 기능적으로 수업 관리에 적합하다.
+
+회사경영자의 입장에서는 코세라는 사용자 인터페이스가 간단하고 효율적이며 직원들이 데이터 과학과 기계 학습에서부터 리더십과 글쓰기에 이르기까지 모든 것을 가르칠 수 있는 경로(학습 프로그램)를 만들 수 있으며, 플랫폼 내에서 진행 상황을 추적하고 사용자를 추가하며 계획을 갱신할 수도 있다.
+
+궁극적으로 최적의 플랫폼 선택은 사용자의 구체적인 목표와 요구 사항과 일치해야 한다. 각 플랫폼은 독특한 이점을 제공하며 교육자와 조직은 필요에 맞게 정보를 제공하여 합리적인 결정을 내릴 수 있다. 기술이 계속 발전함에 따라 원격 교육 환경은 변화할 것이며 온라인 학습의 세계에서 적응하고 혁신하는 적극적인 접근이 필요할 것이다.
+
+
+## 참고문헌
+[1] Anja Likovič, Katarina Rojko, " E-Learning and a Case Study of Coursera and edX Online Platforms," 99, 2023. Available: https://www.researchgate.net/publication/373570163_E-Learning_and_a_Case_Study_of_Coursera_and_edX_Online_Platforms
+[2] Saurabh barnwal, “Coursera Review (2023): New Features and Pros & Cons”, 2022. Available: https://studelp.com/coursera-review.html
+[3] Melissa Pardo-Bunte, “Google Classroom vs. Moodle: Compare Core LMS Capabilities and More”, 2022. Available: https://www.betterbuys.com/lms/google-classroom-vs-moodle/
+[4] Coursera homepage. https://www.coursera.support/s/article/360036160591-How-to-contact-Coursera?language=en_US
+[5] Bethanny Parker, “Coursera break down: Pros, cons, and popular courses”, 2021.  Available:  https://www.zdnet.com/education/breaking-down-coursera/
+[6] Wheelhouse. “Is Google Classroom an LMS?”, 2022. Available: https://www.wheelhouse.com/resources/is-google-classroom-an-lms-a11058
+[7] Jessica Leigh Brown, “Google Classroom for digital learning: A comprehensive guide”, 2022. Available: https://insights.samsung.com/2022/03/02/google-classroom-for-digital-learning-a-comprehensive-guide/
+[8] Google Classroom, Classroom Management Tools & Resources - Google for Education, Figure 1.
+[9] Sonya Trivedi, “Announcing Moodle LMS 4.2 – New and improved features that create efficiencies for educators and trainers”, Figure 1 Moodle, Available: https://moodle.com/news/announcing-moodle-lms-4-2-new-and-improved-features/
+[10] Wikipedia, Coursera, Figure 1 Coursera.
+[11] Imed Bouchirka, “Google Classroom vs Moodle – 2023 Comparison”, 2023. Available: https://research.com/software/google-classroom-vs-moodle#8
