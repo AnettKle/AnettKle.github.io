@@ -1,29 +1,15 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
-name: John, Doe
-
-# Short bio or description (displayed in the header)
-description: Dolore non veniam ex pariatur est.
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+name: Anett K
+description: Computer Science, Assignment number three
 avatar:
-
-#
-# Flags below are optional
-#
-
 timezone: Asia/Seoul
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: anett.k@pusan.ac.kr
   facebook:
   flickr:
-  github:
+  github: AnettKle
   instagram:
   linkedin:
   pinterest:
